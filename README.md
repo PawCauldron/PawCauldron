@@ -11,13 +11,13 @@
 
 ## 安裝
 
-1. 關掉遊戲
-2. 解壓縮 installer.zip
-3. 執行「安裝.bat」
+1. 解壓縮 installer.zip
+2. 執行「安裝.bat」
+3. 遊戲開著也可以裝：裝的時候先不要 `/reload`，看到「已安裝好」再 `/reload`
 
 跳出「Windows 已保護您的電腦」的話：其他資訊 → 仍要執行。
 
-舊版會備份到 `_retail_\Interface\PawCauldron_backups`，WTF 不會動。想換回去就執行「還原.bat」。
+直接覆蓋原本的 PawCauldron，不留備份，WTF 不會動。想換回正式版就從 CurseForge 重新安裝。
 
 有用 CurseForge App 的話，測試期間先別更新 PawCauldron，不然會被蓋回正式版。
 
